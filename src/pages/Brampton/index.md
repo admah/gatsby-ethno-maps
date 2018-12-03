@@ -1,6 +1,7 @@
 ---
-title: Hello World
-date: "2015-05-01T22:12:03.284Z"
+title: Brampton
+date: '2015-05-01T22:12:03.284Z'
+subtitle: 'Some meta data here'
 ---
 
 This is my first post on my new fake blog! How exciting!

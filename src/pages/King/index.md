@@ -1,6 +1,7 @@
 ---
-title: My Second Post!
-date: "2015-05-06T23:46:37.121Z"
+title: King
+date: '2015-05-06T23:46:37.121Z'
+subtitle: 'Some meta data here'
 ---
 
 Wow! I love blogging so much already.

@@ -1,6 +1,6 @@
 module.exports = {
   siteMetadata: {
-    title: 'Toronto Ethno Map',
+    title: 'Toronto Ethno Maps',
     author: '',
     description:
       'A simple map display of entho-linguistic people groups in the Greater Toronto Area',
